@@ -7,8 +7,8 @@ import { DEFAULT_TAB_ICONS } from "../common/constants";
 
 const isSmallLaptop = window.innerHeight < 800;
 const mapIniital = {
-  anchor: [31.356397, 34.784818],
-  startZoom: 11,
+  anchor: [40.9132352, -73.1231163],
+  startZoom: 15.4,
   minZoom: 2,
   maxZoom: 16,
   bounds: null,
