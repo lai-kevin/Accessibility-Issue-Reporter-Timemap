@@ -12,7 +12,7 @@ module.exports = {
   store: {
     app: {
       map: {
-        anchor: [31.356397, 34.784818]
+        anchor: [40.9132352, -73.1231163]
       }
     },
     features: {
